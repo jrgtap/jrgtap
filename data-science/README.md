@@ -1,6 +1,6 @@
-# Data Science Projects 📊🔬
-
 # Work in progress! 👷
+
+# Data Science Projects 📊🔬
 
 Welcome to my Data Science Projects folder! 🌟 This repository contains a collection of my data science projects, showcasing various techniques, tools, and applications in the field of data science. Below you'll find a list of projects, highlights, and different categories.
 

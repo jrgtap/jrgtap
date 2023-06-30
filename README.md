@@ -16,7 +16,7 @@ Trying to make the world a little bit better 🌍✨🌱
 
 Here are some of the projects I have worked on:
 
-- [University Notes](/university): Collection of some of the notes and projects from university courses that I though could be useful or interesting to you.
+- [University Notes](/jrgtap/university): Collection of some of the notes and projects from university courses that I though could be useful or interesting to you.
 - [Arduino Projects](/arduino-projects): Exciting projects I've built using Arduino
 - [Personal Projects](/personal-projects): A showcase of my personal coding projects
 

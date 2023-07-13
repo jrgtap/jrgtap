@@ -16,7 +16,7 @@ Trying to make the world a little bit better 🌍✨🌱
 
 Here are some of the projects I have worked on:
 
-- [University Notes](/university): Collection of some of the notes and projects from university courses that I though could be useful or interesting to you.
+- [DATCOM](https://github.com/jrgtap/master-datcom): Collection of some of the notes and projects from my master´s degree that I though could be useful or interesting.
 - [Arduino Projects](/arduino-projects): Exciting projects I've built using Arduino
 - [Personal Projects](/data-science): A showcase of different personal data-science projects
 
